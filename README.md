@@ -10,7 +10,7 @@ Installation
 
 Clone this repo using following command.
 
-    $ git clone git@gitlab.com:eightlab/face-match.git
+    $ git clone https://github.com/shashwatacharya30/Face-Match.git
 
 Install required dependencies from requirements.txt.
 
